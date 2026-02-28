@@ -19,3 +19,7 @@ Predict Titanic passenger survival using Machine Learning.
 
 ## Libraries
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib
+
+##How to use:
+- First download the train.csv file from data
+- Then run code and upload this file 
